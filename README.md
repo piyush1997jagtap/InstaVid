@@ -1,2 +1,2 @@
 # InstaVid
-A video chat app made using WebRTC in Node JS.
+A video chat app made using WebRTC and Node JS.
